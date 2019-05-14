@@ -1,0 +1,294 @@
+{
+  "status": 200,
+  "response": {
+    "departments": [{
+      "id": 290,
+      "name": "Город 1",
+      "users": [{
+        "id": 28,
+        "name": "Сотрудник 1",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 94,
+        "name": "Сотрудник 2",
+        "incoming": {
+          "success": 8,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 11,
+          "fail": 0
+        }
+      }, {
+        "id": 100,
+        "name": "Сотрудник 3",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 172,
+        "name": "Сотрудник 4",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 2,
+          "fail": 0
+        }
+      }, {
+        "id": 2726,
+        "name": "Сотрудник 5",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 5,
+          "fail": 0
+        }
+      }, {
+        "id": 3086,
+        "name": "Сотрудник 6",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 6,
+          "fail": 0
+        }
+      }, {
+        "id": 3429,
+        "name": "Сотрудник 7",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 44,
+        "name": "Сотрудник 8",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 1,
+          "fail": 0
+        }
+      }, {
+        "id": 180,
+        "name": "Сотрудник 9",
+        "incoming": {
+          "success": 1,
+          "fail": 4,
+          "waste_success": 4,
+          "waste_fail": 0,
+          "not_waste": 4
+        },
+        "outgoing": {
+          "success": 9,
+          "fail": 0
+        }
+      }, {
+        "id": 1778,
+        "name": "Сотрудник 10",
+        "incoming": {
+          "success": 8,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 14,
+          "fail": 0
+        }
+      }]
+    }, {
+      "id": 302,
+      "name": "Город 2",
+      "users": [{
+        "id": 86,
+        "name": "Сотрудник 11",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 176,
+        "name": "Сотрудник 12",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 2,
+          "fail": 0
+        }
+      }, {
+        "id": 182,
+        "name": "Сотрудник 13",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 300,
+        "name": "Сотрудник 14",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 0,
+          "fail": 0
+        }
+      }, {
+        "id": 2547,
+        "name": "Сотрудник 15",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 2,
+          "fail": 0
+        }
+      }, {
+        "id": 2829,
+        "name": "Сотрудник 16",
+        "incoming": {
+          "success": 5,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 6,
+          "fail": 0
+        }
+      }, {
+        "id": 3386,
+        "name": "Сотрудник 17",
+        "incoming": {
+          "success": 0,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 1,
+          "fail": 0
+        }
+      }, {
+        "id": 174,
+        "name": "Сотрудник 18",
+        "incoming": {
+          "success": 3,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 11,
+          "fail": 0
+        }
+      }, {
+        "id": 1988,
+        "name": "Сотрудник 19",
+        "incoming": {
+          "success": 3,
+          "fail": 0,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 0
+        },
+        "outgoing": {
+          "success": 8,
+          "fail": 0
+        }
+      }, {
+        "id": 3698,
+        "name": "Сотрудник 20",
+        "incoming": {
+          "success": 3,
+          "fail": 1,
+          "waste_success": 0,
+          "waste_fail": 0,
+          "not_waste": 1
+        },
+        "outgoing": {
+          "success": 10,
+          "fail": 0
+        }
+      }]
+    }]
+  }
+}
